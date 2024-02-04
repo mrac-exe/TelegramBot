@@ -3,7 +3,6 @@
 import telebot
 from telebot import types
 from currency_converter import CurrencyConverter
-import requests
 
 TOKEN = ('6950572451:AAG07IBQCc48KykHdwSTRiSZVzT8t_vHbF8')
 
